@@ -42,4 +42,5 @@ def assignment2():
         jsonFile.close()
 
 
-assignment2()
+if __name__ == "__main__":
+    assignment2()
